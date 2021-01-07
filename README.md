@@ -1,4 +1,4 @@
-# ### Universal Logger
+# Universal Logger
 
 This documentation realase for our research results publication during the GINOP-2.1.7-15-2016-01781 tender.
 
